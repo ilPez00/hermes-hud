@@ -1,3 +1,5 @@
+> **Fork attribution.** This is a fork of [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud). At audit time this fork was 0 commits ahead of upstream. Original changes: see this fork's commit history. Upstream README follows.
+
 <p align="center">
   <img src="assets/neofetch-ai.png" alt="Hermes HUD — Neural Awakening Theme" width="700">
 </p>
